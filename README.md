@@ -1,5 +1,7 @@
 # IP  
-[![](https://badge.fury.io/js/ip.svg)](https://www.npmjs.com/package/ip)  
+THIS IS NOT THE ORIGINAL NODE-IP, this is a typescript translated version!
+
+for the original node-ip please use this source: https://github.com/indutny/node-ip
 
 IP address utilities for node.js
 
