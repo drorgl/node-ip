@@ -5,10 +5,10 @@
   "contributors": [
     "Dror Gluska <drorgl@yahoo.com>"
   ],
-  "homepage": "https://github.com/indutny/node-ip",
+  "homepage": "https://github.com/drorgl/node-ip",
   "repository": {
     "type": "git",
-    "url": "http://github.com/indutny/node-ip.git"
+    "url": "http://github.com/drorgl/node-ip.git"
   },
   "main": "./dist/src/ip.js",
   "types": "./dist/src/ip.d.ts",
