@@ -13,17 +13,17 @@
   "main": "./dist/src/ip.js",
   "types": "./dist/src/ip.d.ts",
   "devDependencies": {
-    "@types/mocha": "^2.2.41",
-    "mocha": "^3.2.0"
+	  "mocha": "^3.2.0"
   },
   "scripts": {
-    "install": "tsc",
+    "install": "tsc ",
     "test": "tsc && mocha --debug \"dist/test/**/*.js\"",
     "tslint": "tslint -c tslint.json './src/**/*.ts' './test/**/*.ts'"
   },
   "license": "MIT",
   "dependencies": {
     "@types/node": "^7.0.13",
-    "typescript": "^2.2.2"
+    "typescript": "^2.2.2",
+    "@types/mocha": "^2.2.41" 
   }
 }
